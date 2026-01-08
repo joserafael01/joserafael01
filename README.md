@@ -1,5 +1,5 @@
 ## Hi there 👋
-Olá, meu nome é Rafael, tenho 12 anos e sou programador Full Stack em HTML, CSS e inicializando em JavaScrpit
+Olá, meu nome é Rafael, e sou programador Full Stack em HTML, CSS e inicializando em JavaScrpit
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
